@@ -1,6 +1,9 @@
 [submodule "Windows-10-Toast-Notifications"]
-	path = Windows-10-Toast-Notifications
+	path = Win10Toast
 	url = https://github.com/Charnelx/Windows-10-Toast-Notifications
-[submodule "goldenSunshine/src/Windows-10-Toast-Notifications"]
-	path = goldenSunshine/src/Windows-10-Toast-Notifications
+[submodule "goldenSunshine/win10Toast"]
+	path = goldenSunshine/win10Toast
+	url = https://github.com/Charnelx/Windows-10-Toast-Notifications
+[submodule "goldenSunshine/src/win10Toast"]
+	path = goldenSunshine/src/win10Toast
 	url = https://github.com/Charnelx/Windows-10-Toast-Notifications
