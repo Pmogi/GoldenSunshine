@@ -1,4 +1,4 @@
-from src.win10toast.win10toast import ToastNotifier
+from src.Windows-10-Toast-Notifications.win10toast import ToastNotifier
 import webbrowser
 
 def notifyUser(videoId):
